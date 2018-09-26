@@ -1,0 +1,21 @@
+Storyline basata su i racconti e gli elementi dell'universo SCP Fundation
+Per una panoramica sull'universo SCP seguire i seguenti link:
+
+playlist video introduttivi: https://www.youtube.com/watch?v=R9hv6NsWndM&list=PL-aprpylMuCdmFGRXxvwAgu3gc491RzIL
+
+sito SCP Foundation: http://www.scp-wiki.net/
+
+Storyline:
+Thomas Abigale è un carcerato condannato a morte per l'omicidio della moglie e le sue due figlie. Gli viene tuttavia concessa la possibilià di sfiggire alla sedia elettrica nel caso rinunciasse a tutti i suei diritti di cittadino libero americano e entrasse a far parte della SCP Foundation come personale di classe D.
+
+accetti? [si] [no]
+
+[si]--> Linea A
+[no]--> Linea B
+
+[Linea A]
+Accetti e vieni trasferito al Sito ## nel quale inizi a lavorare come cavia di laboratorio a tutti gli effetti. Il sito contiene al suo interno numerosi SCP, solo i livelli più alti conoscono il numero preciso. Il personale di livello superiore ha il compito di catalogare tutti gli SCP presenti, in quanto il database è andato distrutto alcune settimane prima a causa di un non precisato malfunzionamento, e per farlo mettono le creature a contatto con i membri della classe D. Durante la spiegazione vieni a sapere che gran parte se non tutto il corpo del personale del sito ## è stato sostituito nelle scorse settimane e provi a chiedere delucidazioni su ciò che è realmente avvenuto. Per punire la tua insolenza il direttore decide di dare una dimostrazione pratica a tutti e ti fa gettare nella stanza in cui è contenuto SCP-#
+
+[Sfida con SCP-#]
+
+Riesci a sopravvivere al tuo primo incontro con le creature. Il nuovo direttore del sito tuttazia non apprezza questo tuo successo e ti assegna alla squadra che deve controllare gli scp più pericolosi e raccapriccianti del sito
